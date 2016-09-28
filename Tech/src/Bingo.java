@@ -1,4 +1,8 @@
-
+/*className.java
+ 	*Bingo 
+ 	*Sept/12/16
+ 	*Brendan Trinh
+ 	*/
 public class Bingo {
 
 	public static void main(String[] args) {
