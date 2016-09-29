@@ -21,6 +21,8 @@ public class Calculations {
 		System.out.println("The product of the first and fith is "+ (num1*num5));
 		System.out.println("The quotient of the forth number divided by the second number is "+ (num4/num2));
 		System.out.println("The remainder when dividing the forth number by the second number is "+ (num4%num2));
+		System.out.println("The first number raised to the power of the third number is "+ Math.pow(num1, num3));
+		System.out.println("The square root of the fifth number is "+ Math.sqrt(num5));
 	}
 
 }
