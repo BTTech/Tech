@@ -1,3 +1,9 @@
+package trinh;
+/*Quadratic.java
+ *Shows and calculates the quadratic equation
+ *September/10/16
+ *Brendan Trinh
+ */
 import java.util.Scanner;
 import java.text.DecimalFormat;
 public class Quadratic {

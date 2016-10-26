@@ -1,3 +1,4 @@
+package trinh;
 /*Bingo .java
  *Creates a bingo card
  *September/12/16

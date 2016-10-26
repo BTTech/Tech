@@ -1,3 +1,4 @@
+package trinh;
 /*TicTacToeRules.java
  *Creates tictactoe rules
  *September/22/16

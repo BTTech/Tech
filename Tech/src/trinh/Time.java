@@ -1,3 +1,9 @@
+package trinh;
+/*Time.java
+ *Shows and calculates the percentage of each time
+ *September/10/16
+ *Brendan Trinh
+ */
 import java.text.DecimalFormat;
 import java.util.Scanner;
 public class Time {

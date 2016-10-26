@@ -1,3 +1,4 @@
+package trinh;
 /*BinaryNumbers.java
  *Shows binary numbers
  *September/28/16

@@ -1,3 +1,4 @@
+package trinh;
 /*JavaTerminology.java
  *Definition of a few java terminology
  *September/26/16

@@ -1,3 +1,4 @@
+package trinh;
 /*BingoRules.java
  *Creates bingo rules
  *September/15/16

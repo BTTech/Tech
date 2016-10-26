@@ -1,3 +1,9 @@
+package trinh;
+/*Food.java
+ *Shows and calculates the total, before tax, and change
+ *September/10/16
+ *Brendan Trinh
+ */
 import java.text.DecimalFormat;
 import java.util.Scanner;
 public class Food {

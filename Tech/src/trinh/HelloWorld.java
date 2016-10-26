@@ -1,3 +1,4 @@
+package trinh;
 
 public class HelloWorld {
 
