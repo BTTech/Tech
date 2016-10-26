@@ -1,9 +1,8 @@
-/*className.java
- 	*Bingo 
- 	*Creates a bingo card
- 	*September/12/16
- 	*Brendan Trinh
- 	*/
+/*Bingo .java
+ *Creates a bingo card
+ *September/12/16
+ *Brendan Trinh
+ */
 public class Bingo {
 
 	public static void main(String[] args) {

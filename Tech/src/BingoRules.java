@@ -1,9 +1,8 @@
-/*className.java
- 	*BingoRules
- 	*Creates bingo rules
- 	*September/15/16
- 	*Brendan Trinh
- 	*/
+/*BingoRules.java
+ *Creates bingo rules
+ *September/15/16
+ *Brendan Trinh
+ */
 public class BingoRules {
 
 	public static void main(String[] args) {

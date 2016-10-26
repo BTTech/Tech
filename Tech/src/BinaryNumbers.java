@@ -1,9 +1,8 @@
-/*className.java
- 	*BinaryNumbers
- 	*Shows binary numbers
- 	*September/28/16
- 	*Brendan Trinh
- 	*/
+/*BinaryNumbers.java
+ *Shows binary numbers
+ *September/28/16
+ *Brendan Trinh
+ */
 public class BinaryNumbers {
 
 	public static void main(String[] args) {

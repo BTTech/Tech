@@ -1,9 +1,8 @@
-/*className.java
- 	*TicTacToeRules
- 	*Creates tictactoe rules
- 	*September/22/16
- 	*Brendan Trinh
- 	*/
+/*TicTacToeRules.java
+ *Creates tictactoe rules
+ *September/22/16
+ *Brendan Trinh
+ */
 public class TicTacToeRules {
 
 	public static void main(String[] args) {

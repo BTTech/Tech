@@ -1,9 +1,8 @@
-/*className.java
- 	*JavaTerminology
- 	*Definition of a few java terminology
- 	*September/26/16
- 	*Brendan Trinh
- 	*/
+/*JavaTerminology.java
+ *Definition of a few java terminology
+ *September/26/16
+ *Brendan Trinh
+ */
 public class JavaTerminology {
 
 	public static void main(String[] args) {
