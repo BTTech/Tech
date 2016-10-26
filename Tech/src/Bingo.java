@@ -1,6 +1,7 @@
 /*className.java
  	*Bingo 
- 	*Sept/12/16
+ 	*Creates a bingo card
+ 	*September/12/16
  	*Brendan Trinh
  	*/
 public class Bingo {

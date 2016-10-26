@@ -1,4 +1,9 @@
-
+/*className.java
+ 	*BinaryNumbers
+ 	*Shows binary numbers
+ 	*September/28/16
+ 	*Brendan Trinh
+ 	*/
 public class BinaryNumbers {
 
 	public static void main(String[] args) {
@@ -22,31 +27,31 @@ public class BinaryNumbers {
 		System.out.format("%7s %10s","15","1111\n");
 		System.out.format("%7s %10s","16","10000\n");
 		System.out.format("%7s %10s","17","10001\n");
-		System.out.format("%7s %10s","18","10011\n");
-		System.out.format("%7s %10s","19","10100\n");
-		System.out.format("%7s %10s","20","10101\n");
+		System.out.format("%7s %10s","18","10010\n");
+		System.out.format("%7s %10s","19","10011\n");
+		System.out.format("%7s %10s","20","10100\n");
 		System.out.format("\n");
 		System.out.format("%-6s %10s","Decimal","Hexadecimal\n");
-		System.out.format("%7s %12s","1","0\n");
-		System.out.format("%7s %12s","2","1\n");
-		System.out.format("%7s %12s","3","2\n");
-		System.out.format("%7s %12s","4","3\n");
-		System.out.format("%7s %12s","5","4\n");
-		System.out.format("%7s %12s","6","5\n");
-		System.out.format("%7s %12s","7","6\n");
-		System.out.format("%7s %12s","8","7\n");
-		System.out.format("%7s %12s","9","8\n");
-		System.out.format("%7s %12s","10","9\n");
-		System.out.format("%7s %12s","11","A\n");
-		System.out.format("%7s %12s","12","B\n");
-		System.out.format("%7s %12s","13","C\n");
-		System.out.format("%7s %12s","14","D\n");
-		System.out.format("%7s %12s","15","E\n");
-		System.out.format("%7s %12s","16","F\n");
-		System.out.format("%7s %12s","17","10\n");
-		System.out.format("%7s %12s","18","11\n");
-		System.out.format("%7s %12s","19","12\n");
-		System.out.format("%7s %12s","20","13\n");
+		System.out.format("%7s %12s","1","1\n");
+		System.out.format("%7s %12s","2","2\n");
+		System.out.format("%7s %12s","3","3\n");
+		System.out.format("%7s %12s","4","4\n");
+		System.out.format("%7s %12s","5","5\n");
+		System.out.format("%7s %12s","6","6\n");
+		System.out.format("%7s %12s","7","7\n");
+		System.out.format("%7s %12s","8","8\n");
+		System.out.format("%7s %12s","9","9\n");
+		System.out.format("%7s %12s","10","A\n");
+		System.out.format("%7s %12s","11","B\n");
+		System.out.format("%7s %12s","12","C\n");
+		System.out.format("%7s %12s","13","D\n");
+		System.out.format("%7s %12s","14","E\n");
+		System.out.format("%7s %12s","15","F\n");
+		System.out.format("%7s %12s","16","10\n");
+		System.out.format("%7s %12s","17","11\n");
+		System.out.format("%7s %12s","18","12\n");
+		System.out.format("%7s %12s","19","13\n");
+		System.out.format("%7s %12s","20","14\n");
 		
 	}
 
