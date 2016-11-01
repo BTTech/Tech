@@ -19,22 +19,22 @@ public class IfStatementExcercise1 {
 
 		if (number > 0)
 		{
-		System.out.println("Your Number is Positive ");
+			System.out.println("Your Number is Positive ");
 		}
 		else
 		{	
-		System.out.println("Your Number is Negative");
+			System.out.println("Your Number is Negative");
 		}
-		
+
 		if (number % 7 == 0)
 		{
-		System.out.println("Your Number is Divisable by 7");
+			System.out.println("Your Number is Divisable by 7");
 		}
 		else
 		{
-		System.out.println("Your Number is not Divisable by 7");	
+			System.out.println("Your Number is not Divisable by 7");	
 		}
-		
+
 	}
-		
+
 }
