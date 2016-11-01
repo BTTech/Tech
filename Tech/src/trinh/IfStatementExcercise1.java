@@ -1,6 +1,6 @@
 package trinh;
 /*IfStatementExcercise1.java
- *
+ *Shows if the number is positive or negative and checks if the number is divisable by 7
  *October/31/16
  *Brendan Trinh
  */

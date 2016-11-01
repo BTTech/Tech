@@ -4,7 +4,11 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Print {
-
+	/*print.java
+	 *Show amount of copies and the amount it cost
+	 *October/31/16
+	 *Brendan Trinh
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
