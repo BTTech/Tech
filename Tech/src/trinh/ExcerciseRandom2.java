@@ -9,8 +9,8 @@ public class ExcerciseRandom2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int dice1= (int)(Math.random()*6)+1;
-		int dice2= (int)(Math.random()*6)+1;
+		int dice1= (int)(Math.random()*12)+1;
+		int dice2= (int)(Math.random()*12)+1;
 
 		if (dice1>dice2)
 			System.out.println("User won!!!");
