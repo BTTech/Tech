@@ -1,5 +1,9 @@
 package trinh;
-
+/*RandomGenerator.java
+ *Creates 10 random numbers
+ *November/11/16
+ *Brendan Trinh
+ */
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

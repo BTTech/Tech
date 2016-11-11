@@ -1,7 +1,7 @@
 package trinh;
 /*ExcerciseRandom2.java
  *Rolls a die for the user and computer then says who won
- *October/11/16
+ *November/11/16
  *Brendan Trinh
  */
 public class ExcerciseRandom2 {
