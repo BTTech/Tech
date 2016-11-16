@@ -1,5 +1,9 @@
 package trinh;
-
+/*PrimeFactor.java
+ *calculates and shows the prime factors
+ *November/15/16
+ *Brendan Trinh
+ */
 import java.util.Scanner;
 
 public class PrimeFactors {
