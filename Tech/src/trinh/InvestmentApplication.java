@@ -1,4 +1,9 @@
 package trinh;
+/*InvestmentApplication.java
+ *Shows how many years it takes to reach $5000
+ *November/22/16
+ *Brendan Trinh
+ */
 import java.util.Scanner;
 
 
