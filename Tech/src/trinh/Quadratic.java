@@ -1,7 +1,7 @@
 package trinh;
 /*Quadratic.java
  *Shows and calculates the quadratic equation
- *September/10/16
+ *September/28/16
  *Brendan Trinh
  */
 import java.util.Scanner;
