@@ -1,6 +1,6 @@
 package trinh;
 /*GuessingGameLoop.java
- *User chooses a number then the computer checks if it matches the random number and loops when you lose
+ *User chooses a number then the computer checks if it matches the random number and loops when you lose and stops when you win
  *November/18/16
  *Brendan Trinh
  */
