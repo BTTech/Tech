@@ -1,7 +1,7 @@
 package trinh;
 /*Calculations.java
  *Shows and calculates the equations
- *September/10/16
+ *September/15/16
  *Brendan Trinh
  */
 import java.util.Scanner;
