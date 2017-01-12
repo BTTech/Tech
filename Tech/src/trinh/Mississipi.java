@@ -1,5 +1,9 @@
 package trinh;
-
+/*Mississipi.java
+ *The program uses methods and prints out MISSISSIPPI 
+ *January/11/17
+ *Brendan Trinh
+ */
 public class Mississipi {
 
 	public static void main(String[] args) {
