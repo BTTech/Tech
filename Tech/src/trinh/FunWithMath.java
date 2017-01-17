@@ -1,5 +1,9 @@
 package trinh;
-
+/*FunWithMath.java
+ *The user types out two numbers and types a number that represents if it's addition, subtraction, multiplication, and division. Also ask the player if they want to restart.
+ *January/16/17
+ *Brendan Trinh
+ */
 import java.util.Scanner;
 
 public class FunWithMath {
